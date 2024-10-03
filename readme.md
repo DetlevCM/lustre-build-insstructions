@@ -17,8 +17,8 @@ The work was carried out at the Humboldt Universität zu Berlin at the Computer-
 **It builds and it installs, it seems to work, that is it.**
 **The result obtained from these tutorials is intended as a local sandbox only.**
 
-- [Building Lustre Server on Rocky 8.10](lustre_server_rocky8.10)
-- [Building Lustre Server on Rocky 9.4](lustre_server_rocky9.4)
+- [Building Lustre Server on Rocky 8.10](lustre_server_rocky8.10.md)
+- [Building Lustre Server on Rocky 9.4](lustre_server_rocky9.4.md)
 
 
 
