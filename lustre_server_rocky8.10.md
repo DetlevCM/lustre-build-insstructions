@@ -287,6 +287,14 @@ We condigure lustre while pointing it at the kernel source code that was employe
 An important caveat is that as a local test VM, the kernel was built as root under /root, not necessarily a recommended approach.
 
 
+>
+> #### Note!!
+>
+> Between the initial draft of this document and now (2024_10_18) the kernel version of Rocky 8.10 changed from 4.18.0-553.22 to 4.18.0-553.16.
+> This guide was written initially written for the .22 version. 
+> sIn the .18 version tested later, there is/was no longer any need to modify the patch file and paths during the build of the kernel should be adjusted accordingly.
+>
+
 
 ```
 cd lustre-release
