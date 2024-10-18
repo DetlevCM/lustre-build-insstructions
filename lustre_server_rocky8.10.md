@@ -275,7 +275,7 @@ uname -r
 
 #### Notes:
 
-Manty of the commands add content to files.
+Many of the commands add content to files.
 As a result it is not advised to rerun commands.
 IF at any step during the process steps fails, analyze the failure and return to the original source rpm package and retrace the steps.
 
